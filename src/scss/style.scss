@@ -1,5 +1,8 @@
-@import 'bourbon'; // http://bourbon.io/
+@import 'css/reset.css';
+@import 'css/style.css';
 
+@import 'bourbon/bourbon'; // http://bourbon.io/
+@import 'bourbon/bourbon-deprecated-upcoming';
 @import 'partials/variables'; // colors, fonts etc...
 
 @import 'partials/layout'; // responsive grid and media queries
